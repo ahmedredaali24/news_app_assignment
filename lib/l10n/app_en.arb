@@ -1,0 +1,19 @@
+{
+"news_app":"News App",
+"choose":"Pick your category of interest",
+"sport":"Sport",
+"general":"General",
+"health":"Health",
+"business":"Business",
+"entertainment":"Entertainment",
+"science":"Science",
+"setting":"Setting",
+"categories":"Categories",
+"search":"Search",
+"news_title":"News Title",
+"english":"english",
+"arabic":"arabic",
+"dark_mode":"Dark Mode",
+"disabled":"Disabled",
+"enabled":" Enabled"
+}
